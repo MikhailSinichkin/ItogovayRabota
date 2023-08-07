@@ -11,7 +11,7 @@
 [“Russia”, “Denmark”, “Kazan”] → []
 */
 
-string[] arr1 = { "Hello", "2", "world", ":-)","1234","10" };
+string[] arr1 = { "Hello", "2", "world", ":-)","1234","10","29" };
 int size = 0;
 for (int i = 0; i < arr1.Length; i++)
 {
@@ -25,7 +25,7 @@ string[] NewArray(string[] array )
 {   
     string[] arr2 = new string[size];
     int j = 0;
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < arr1.Length; i++)
     
         if (array[i].Length <= 3)
         {

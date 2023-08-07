@@ -30,7 +30,7 @@ string[] NewArray(string[] array )
         if (array[i].Length <= 3)
         {
          arr2[j] = array[i];
-         j+=1;
+         j++;
 
         }
     return arr2;

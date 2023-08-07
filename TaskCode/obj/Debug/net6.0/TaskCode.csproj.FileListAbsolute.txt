@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ItogRabota\TaskCode\obj\Debug\net6.0\TaskCode.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ItogRabota\TaskCode\obj\Debug\net6.0\TaskCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ItogRabota\TaskCode\obj\Debug\net6.0\TaskCode.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ItogRabota\TaskCode\obj\Debug\net6.0\TaskCode.AssemblyInfo.cs
+C:\Users\User\Desktop\ItogRabota\TaskCode\obj\Debug\net6.0\TaskCode.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ItogRabota\TaskCode\bin\Debug\net6.0\TaskCode.exe
+C:\Users\User\Desktop\ItogRabota\TaskCode\bin\Debug\net6.0\TaskCode.deps.json
+C:\Users\User\Desktop\ItogRabota\TaskCode\bin\Debug\net6.0\TaskCode.runtimeconfig.json
+C:\Users\User\Desktop\ItogRabota\TaskCode\bin\Debug\net6.0\TaskCode.dll
+C:\Users\User\Desktop\ItogRabota\TaskCode\bin\Debug\net6.0\TaskCode.pdb
+C:\Users\User\Desktop\ItogRabota\TaskCode\obj\Debug\net6.0\TaskCode.dll
+C:\Users\User\Desktop\ItogRabota\TaskCode\obj\Debug\net6.0\refint\TaskCode.dll
+C:\Users\User\Desktop\ItogRabota\TaskCode\obj\Debug\net6.0\TaskCode.pdb
+C:\Users\User\Desktop\ItogRabota\TaskCode\obj\Debug\net6.0\TaskCode.genruntimeconfig.cache
+C:\Users\User\Desktop\ItogRabota\TaskCode\obj\Debug\net6.0\ref\TaskCode.dll
